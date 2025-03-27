@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProject\\StudyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89A11B2-2B3F-DBDB-B60B-67B4E4FDFC28}|Assembly-CSharp.csproj|E:\\UnityProject\\StudyProject\\assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89A11B2-2B3F-DBDB-B60B-67B4E4FDFC28}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95E6485-238A-16E9-D579-3368D0FA5E06}|Assembly-CSharp-Editor.csproj|e:\\unityproject\\studyproject\\assets\\unitytechnologies\\3dbeginnertutorial\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95E6485-238A-16E9-D579-3368D0FA5E06}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\unitytechnologies\\3dbeginnertutorial\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "E:\\UnityProject\\StudyProject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "E:\\UnityProject\\StudyProject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:22:49.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "E:\\UnityProject\\StudyProject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ToolTip": "E:\\UnityProject\\StudyProject\\Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\3DBeginnerTutorial\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:22:32.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
