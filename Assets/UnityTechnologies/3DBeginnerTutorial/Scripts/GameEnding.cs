@@ -109,10 +109,10 @@ public class GameEnding : MonoBehaviour
                 SceneManager.LoadScene(0);
             }
             else{
-            //退出当前应用程序，打包发布后才能生效
-            Application.Quit();
-            //编译器状态下停止游戏运行
-            //UnityEditor.EditorApplication.isPlaying = false;
+                //退出当前应用程序，打包发布后才能生效
+                //Application.Quit();
+                //编译器状态下停止游戏运行
+                UnityEditor.EditorApplication.isPlaying = false;
             }
         }
 
